@@ -95,8 +95,7 @@ function generateREADME(answers) {
   readmeContent += `${answers.tutorials}\n\n`;
 
   readmeContent += '## License\n\n';
-  readmeContent += `The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).\n\n`;
-
+  readmeContent += `${answers.license}\n\n`;
   // Return the generated README content
   return readmeContent;
 }
