@@ -21,6 +21,8 @@ You install the repo. Then open a terminal and call the application by running n
 
 As the app has now started, all you have to do is answer the prompts and questions that come up. These will form the readme. 
 
+https://watch.screencastify.com/v/RQysIzflkFGNzRN6rfQC
+
 ## Credits
 
 n/a
